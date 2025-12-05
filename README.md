@@ -244,5 +244,5 @@ npm run build
 ---
 
 <div align="center">
-Made with ❤️ by CryptoBox Team
+Made with ❤️ by 00724
 </div>
